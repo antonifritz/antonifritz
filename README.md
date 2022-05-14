@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonifritz
 - 👀 I’m interested in chess
-- 🌱 I’m currently learning C, Assembly, Python OpenGL, computer architecture
+- 🌱 I’m currently learning Assembly, computer architecture
 - 📫 How to reach me: write to antonifritz2000@gmail.com
 
 <!---

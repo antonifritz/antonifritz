@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antonifritz
-- 👀 I’m interested in chess, reading, computer security
+- 👀 I’m interested in chess, reading, IT security
 - 🌱 I’m currently learning python, computer architecture
 - 📫 How to reach me: write to antonifritz2000@gmail.com
 

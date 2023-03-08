@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @antonifritz
-- 👀 I’m interested in chess, political science
+- 👋 Hi, I’m Antoni Fritz. I'm currently third year computer science student at Wrocław University of Science of Technology and third year political science student at University of Wrocław.
+- 👀 I’m interested in chess, IT, political science, art
 - 🌱 I’m currently learning machine learning, bash scripting
 - 📫 How to reach me: write to antonifritz2000@gmail.com
 

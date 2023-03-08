@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonifritz
 - 👀 I’m interested in chess, political science
-- 🌱 I’m currently learning machine learning, bash
+- 🌱 I’m currently learning machine learning, bash scripting
 - 📫 How to reach me: write to antonifritz2000@gmail.com
 
 <!---

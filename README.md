@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antonifritz
-- 👀 I’m interested in chess, reading, IT security
-- 🌱 I’m currently learning python, computer architecture
+- 👀 I’m interested in chess, political science
+- 🌱 I’m currently learning machine learning, bash
 - 📫 How to reach me: write to antonifritz2000@gmail.com
 
 <!---
